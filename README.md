@@ -9,7 +9,7 @@
   </b></p>
 
 
-
+</br>
 <h4 align="center">Favorite projects</h4>
 
 <p align="center">
