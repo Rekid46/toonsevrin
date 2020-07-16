@@ -1,8 +1,26 @@
-### Hi there 👋
+<h1 align="center"> Hi 👋, I'm Toon Sevrin</h1> 
+<h3 align="center"> A passionate Student, Entrepreneur and Developer from Belgium</h3>
 
-[<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height=18px/> **Linkedin**](https://www.linkedin.com/in/toonsevrin/) 
+
+  
+<a href="https://www.linkedin.com/in/toonsevrin/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height=18px/> **LinkedIn**</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://lh3.googleusercontent.com/HbVi6-xPzc5uP0YvDNgwb8pfknAlun9aWSTMd8S7XdgoQrSiurbdxWsnnScSGZd2JLQ4Wh2iQvtBCOrai1_6a_ddGniuhqGJ677b" height=16px/> **Email**](mailto:twan123@live.be)
+<a href="mailto:twan123@live.be"><img src="https://lh3.googleusercontent.com/HbVi6-xPzc5uP0YvDNgwb8pfknAlun9aWSTMd8S7XdgoQrSiurbdxWsnnScSGZd2JLQ4Wh2iQvtBCOrai1_6a_ddGniuhqGJ677b" height=16px/> **Email**</a>
+
+
+
+#### Favorite projects
+[<img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg" height=32px/>](https://github.com/kubernetes/kubernetes/)
+&nbsp;&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/golang/go/ef694a01104168ef4e48579ebdd0d840445d7fd7/doc/gopher/favicon.svg" height=32px/>](https://github.com/golang/go)
+&nbsp;&nbsp;&nbsp;
+[<img src="https://istio.io/img/istio-logo.svg" height=32px/>](https://github.com/istio/istio)
+&nbsp;&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/rancherlabs/k3s-website/3031886b7c97c018ba854f92a7eef95bd19f3938/static/img/logo.svg" height=30px/>](https://github.com/rancher/k3s)
+&nbsp;&nbsp;&nbsp;
+[<img src="https://content.arduino.cc/brand/arduino-color.svg" height=32px/>](https://github.com/arduino/Arduino)
+
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=toonsevrin&show_icons=true alt=toonsevrin /> </p>
 
 <!-- Visitor counter: -->
 <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Ftoonsevrin" height=0px>
