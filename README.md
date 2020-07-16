@@ -15,7 +15,7 @@
 <p align="center">
 <a src="https://github.com/kubernetes/kubernetes/"><img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg" height=32px/></a>
 &nbsp;&nbsp;&nbsp;
-<a src="https://github.com/golang/go"><img src="https://raw.githubusercontent.com/golang/go/ef694a01104168ef4e48579ebdd0d840445d7fd7/doc/gopher/favicon.svg" height=32px/>]</a>
+<a src="https://github.com/golang/go"><img src="https://raw.githubusercontent.com/golang/go/ef694a01104168ef4e48579ebdd0d840445d7fd7/doc/gopher/favicon.svg" height=32px/></a>
 &nbsp;&nbsp;&nbsp;
 <a src="https://github.com/istio/istio"><img src="https://istio.io/img/istio-logo.svg" height=32px/></a>
 &nbsp;&nbsp;&nbsp;
