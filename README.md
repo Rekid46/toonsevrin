@@ -13,15 +13,15 @@
 <h4 align="center">Favorite projects</h4>
 
 <p align="center">
-<a src="https://github.com/kubernetes/kubernetes/"><img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg" height=32px/></a>
+<a href="https://github.com/kubernetes/kubernetes/"><img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg" height=32px/></a>
 &nbsp;&nbsp;&nbsp;
-<a src="https://github.com/golang/go"><img src="https://raw.githubusercontent.com/golang/go/ef694a01104168ef4e48579ebdd0d840445d7fd7/doc/gopher/favicon.svg" height=32px/></a>
+<a href="https://github.com/golang/go"><img src="https://raw.githubusercontent.com/golang/go/ef694a01104168ef4e48579ebdd0d840445d7fd7/doc/gopher/favicon.svg" height=32px/></a>
 &nbsp;&nbsp;&nbsp;
-<a src="https://github.com/istio/istio"><img src="https://istio.io/img/istio-logo.svg" height=32px/></a>
+<a href="https://github.com/istio/istio"><img src="https://istio.io/img/istio-logo.svg" height=32px/></a>
 &nbsp;&nbsp;&nbsp;
-<a src="https://github.com/rancher/k3s"><img src="https://raw.githubusercontent.com/rancherlabs/k3s-website/3031886b7c97c018ba854f92a7eef95bd19f3938/static/img/logo.svg" height=30px/></a>
+<a href="https://github.com/rancher/k3s"><img src="https://raw.githubusercontent.com/rancherlabs/k3s-website/3031886b7c97c018ba854f92a7eef95bd19f3938/static/img/logo.svg" height=30px/></a>
 &nbsp;&nbsp;&nbsp;
-<a src="https://github.com/arduino/Arduino"><img src="https://content.arduino.cc/brand/arduino-color.svg" height=32px/></a>
+<a href="https://github.com/arduino/Arduino"><img src="https://content.arduino.cc/brand/arduino-color.svg" height=32px/></a>
 
 </p>
 
