@@ -1,3 +1,0 @@
-Test file: You can ignore this :)
-test url: https://toon@test:github.com/user/repo.git
-blabla
